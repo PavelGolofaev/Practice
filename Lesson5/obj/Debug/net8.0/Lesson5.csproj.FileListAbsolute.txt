@@ -1,0 +1,15 @@
+C:\Users\pavel\OneDrive\Рабочий стол\GeekBrains\01_CSHARP\Practice\Lesson5\bin\Debug\net8.0\Lesson5.exe
+C:\Users\pavel\OneDrive\Рабочий стол\GeekBrains\01_CSHARP\Practice\Lesson5\bin\Debug\net8.0\Lesson5.deps.json
+C:\Users\pavel\OneDrive\Рабочий стол\GeekBrains\01_CSHARP\Practice\Lesson5\bin\Debug\net8.0\Lesson5.runtimeconfig.json
+C:\Users\pavel\OneDrive\Рабочий стол\GeekBrains\01_CSHARP\Practice\Lesson5\bin\Debug\net8.0\Lesson5.dll
+C:\Users\pavel\OneDrive\Рабочий стол\GeekBrains\01_CSHARP\Practice\Lesson5\bin\Debug\net8.0\Lesson5.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\GeekBrains\01_CSHARP\Practice\Lesson5\obj\Debug\net8.0\Lesson5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\OneDrive\Рабочий стол\GeekBrains\01_CSHARP\Practice\Lesson5\obj\Debug\net8.0\Lesson5.AssemblyInfoInputs.cache
+C:\Users\pavel\OneDrive\Рабочий стол\GeekBrains\01_CSHARP\Practice\Lesson5\obj\Debug\net8.0\Lesson5.AssemblyInfo.cs
+C:\Users\pavel\OneDrive\Рабочий стол\GeekBrains\01_CSHARP\Practice\Lesson5\obj\Debug\net8.0\Lesson5.csproj.CoreCompileInputs.cache
+C:\Users\pavel\OneDrive\Рабочий стол\GeekBrains\01_CSHARP\Practice\Lesson5\obj\Debug\net8.0\Lesson5.sourcelink.json
+C:\Users\pavel\OneDrive\Рабочий стол\GeekBrains\01_CSHARP\Practice\Lesson5\obj\Debug\net8.0\Lesson5.dll
+C:\Users\pavel\OneDrive\Рабочий стол\GeekBrains\01_CSHARP\Practice\Lesson5\obj\Debug\net8.0\refint\Lesson5.dll
+C:\Users\pavel\OneDrive\Рабочий стол\GeekBrains\01_CSHARP\Practice\Lesson5\obj\Debug\net8.0\Lesson5.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\GeekBrains\01_CSHARP\Practice\Lesson5\obj\Debug\net8.0\Lesson5.genruntimeconfig.cache
+C:\Users\pavel\OneDrive\Рабочий стол\GeekBrains\01_CSHARP\Practice\Lesson5\obj\Debug\net8.0\ref\Lesson5.dll
